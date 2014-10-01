@@ -1,5 +1,6 @@
 CommonMark-ASTcheck
 ===================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/rolandshoemaker/CommonMark-ASTcheck?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 tool to check validity of [CommonMark](http://commonmark.org) spec AST structure read from JSON (or directly by importing the function), this will eventually be merged into [CommonMark-py](https://github.com/rolandshoemaker/CommonMark-py) most likely.
 
